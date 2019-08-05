@@ -1,2 +1,2 @@
 # fuseki
-Collection of scripts.  Primarily web scraping, API integrations, and stat report building.
+Collection made up primarily of web scraping, API integrations, and stat report building scripts.
